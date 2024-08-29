@@ -19,7 +19,7 @@ Feel free to fork this and automate the removal of the popup, I think for most p
 
 - have fun
 
-**Demo**
+**Video Guide**
 -
 https://github.com/user-attachments/assets/75a8b2d4-5e1f-4e2a-969c-71ea326f675a
 
