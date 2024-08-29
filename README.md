@@ -2,10 +2,7 @@
 -
 Simple chrome extension which opens a popup with a button which should remove any warnings you may get trying to look at products on MuleBuy.
 
-Feel free to fork this and automate the removal of the popup, I think for most people's needs this works fine.
-
-Contact me on discord at `chadwarden2603` with any questions or suggestions.
-
+Feel free to fork this and automate the removal of the popup, I think for most people's needs this works fine. I'm also lazy.
 
 **Installation Guide**
 -
